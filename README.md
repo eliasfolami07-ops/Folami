@@ -1,2 +1,3 @@
 # Folami
-Personal portfolio
+Folami Elias Temidayo's personal portfolio to the public
+
